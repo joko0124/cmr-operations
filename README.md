@@ -1,2 +1,2 @@
 # cmr-operations
-BWSI CMR and operation System
+BWSI CMR and Operations System
