@@ -1,0 +1,843 @@
+﻿Build1=PumpOp,bwsi.PumpOperations
+File1=a1.png
+File10=ChlorinatorRecords.bal
+File100=sourcesanspro-extralight.ttf
+File101=sourcesanspro-extralightitalic.ttf
+File102=sourcesanspro-italic.ttf
+File103=sourcesanspro-light.ttf
+File104=sourcesanspro-lightitalic.ttf
+File105=sourcesanspro-regular.ttf
+File106=sourcesanspro-semibold.ttf
+File107=sourcesanspro-semibolditalic.ttf
+File108=ultralight.ttf
+File109=WaterBalance.bal
+File11=CMJOFindings.bal
+File110=wb.png
+File12=cpm.png
+File13=cpm-disable.png
+File14=critical-point-monitoring-icon.png
+File15=critical-point-monitoring-new.png
+File16=Dashboard.bal
+File17=DCCRJOFindings.bal
+File18=DCDAJOFindings.bal
+File19=DebugKeyboard.bal
+File2=actKeyboard.bas
+File20=EditPumpTimeRecords.bal
+File21=FMRdgRecords.bal
+File22=GPMCalc.bal
+File23=gpm-calc.png
+File24=gpm-calculator.png
+File25=gpm-disable.png
+File26=GPMHistory.bal
+File27=hamburger.png
+File28=header.jpg
+File29=header.png
+File3=AddEditPumpNonOperational.bal
+File30=icon.png
+File31=JOAccomplishedDetails.bal
+File32=JOAccomplishedDetailsSAS.bal
+File33=JOCategories.bal
+File34=JoDetails.bal
+File35=jo-disable.png
+File36=JOFindingsMain.bal
+File37=jo-icon.png
+File38=JOInfo.bal
+File39=JokoKeyboard.bal
+File4=baseline_cancel_white_18dp.png
+File40=JOList.bal
+File41=JONotification.bal
+File42=JONotifInfo.bal
+File43=JORecord.bal
+File44=JOSummaryList.bal
+File45=light.ttf
+File46=ListChlorinatorRecords.bal
+File47=ListFMRdg.bal
+File48=ListGPMResults.bal
+File49=ListNonOperationalRecords.bal
+File5=baseline_circle_notifications_white_24dp.png
+File50=ListProblemsRecords.bal
+File51=ListPSIDistRecords.bal
+File52=ListPSIRecords.bal
+File53=ListPumpTimeRecords.bal
+File54=login.bal
+File55=Login2.bal
+File56=LoginNew.bal
+File57=logo.png
+File58=mainmenu.bal
+File59=mainscreen.bal
+File6=baseline_delete_forever_white_24dp.png
+File60=masterdb.db
+File61=MCJOFindings.bal
+File62=myfont.ttf
+File63=myfont_bold.ttf
+File64=NCJOFindings.bal
+File65=NewGPMCalc.bal
+File66=new-jo.png
+File67=NewPsiRdgDist.bal
+File68=NewPumpTimeRecords.bal
+File69=NewPumpTimeRecords2.bal
+File7=baseline_engineering_white_24dp.png
+File70=Non-Op.png
+File71=non-op-disble.png
+File72=NonOperational.bal
+File73=notifBMP.png
+File74=point.png
+File75=ProblemEncMain.bal
+File76=ProblemRecords.bal
+File77=prod-disable.png
+File78=Production.bal
+File79=production.png
+File8=beep.wav
+File80=profile3.jpg
+File81=PSIDistRecords.bal
+File82=PSIRdgDistribution.bal
+File83=PSIReading.bal
+File84=PumpFMReading.bal
+File85=PumpList.bal
+File86=PumpOffTime.bal
+File87=PumpTimeRecords.bal
+File88=RCJOFindings.bal
+File89=repairs.png
+File9=bold.ttf
+File90=repairs-disable.png
+File91=reports.png
+File92=roboto-bold.ttf
+File93=roboto-regular.ttf
+File94=Sampol.bal
+File95=SASJOFindings.bal
+File96=sourcesanspro-black.ttf
+File97=sourcesanspro-blackitalic.ttf
+File98=sourcesanspro-bold.ttf
+File99=sourcesanspro-bolditalic.ttf
+FileGroup1=Default Group\Images
+FileGroup10=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup100=Default Group\Fonts
+FileGroup101=Default Group\Fonts
+FileGroup102=Default Group\Fonts
+FileGroup103=Default Group\Fonts
+FileGroup104=Default Group\Fonts
+FileGroup105=Default Group\Fonts
+FileGroup106=Default Group\Fonts
+FileGroup107=Default Group\Fonts
+FileGroup108=Default Group\Fonts
+FileGroup109=Default Group\Form Layouts\Other Layouts
+FileGroup11=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup110=Default Group\Enable Icons
+FileGroup12=Default Group\Images
+FileGroup13=Default Group\Disable Icons
+FileGroup14=Default Group\Images
+FileGroup15=Default Group\Enable Icons
+FileGroup16=Default Group\Form Layouts\Misc Activity Layout
+FileGroup17=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup18=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup19=Default Group\Form Layouts\Other Layouts
+FileGroup2=Default Group
+FileGroup20=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup21=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup22=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup23=Default Group\Enable Icons
+FileGroup24=Default Group\Enable Icons
+FileGroup25=Default Group\Disable Icons
+FileGroup26=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup27=Default Group\Images
+FileGroup28=Default Group\Images
+FileGroup29=Default Group\Images
+FileGroup3=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup30=Default Group
+FileGroup31=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup32=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup33=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup34=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup35=Default Group\Disable Icons
+FileGroup36=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup37=Default Group\Enable Icons
+FileGroup38=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup39=Default Group\Form Layouts\Other Layouts
+FileGroup4=Default Group\Images
+FileGroup40=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup41=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup42=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup43=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup44=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup45=Default Group\Fonts
+FileGroup46=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup47=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup48=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup49=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup5=Default Group\Images
+FileGroup50=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup51=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup52=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup53=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup54=Default Group\Form Layouts\Misc Activity Layout
+FileGroup55=Default Group\Form Layouts\Misc Activity Layout
+FileGroup56=Default Group\Form Layouts\Misc Activity Layout
+FileGroup57=Default Group\Images
+FileGroup58=Default Group\Form Layouts\Misc Activity Layout
+FileGroup59=Default Group\Form Layouts\Misc Activity Layout
+FileGroup6=Default Group\Images
+FileGroup60=Default Group
+FileGroup61=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup62=Default Group\Fonts
+FileGroup63=Default Group\Fonts
+FileGroup64=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup65=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup66=Default Group\Enable Icons
+FileGroup67=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup68=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup69=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup7=Default Group
+FileGroup70=Default Group\Enable Icons
+FileGroup71=Default Group\Disable Icons
+FileGroup72=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup73=Default Group
+FileGroup74=Default Group\Enable Icons
+FileGroup75=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup76=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup77=Default Group\Disable Icons
+FileGroup78=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup79=Default Group\Enable Icons
+FileGroup8=Default Group
+FileGroup80=Default Group\Images
+FileGroup81=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup82=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup83=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup84=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup85=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup86=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup87=Default Group\Form Layouts\Pump Operator Activity Layout
+FileGroup88=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup89=Default Group\Enable Icons
+FileGroup9=Default Group\Fonts
+FileGroup90=Default Group\Disable Icons
+FileGroup91=Default Group\Enable Icons
+FileGroup92=Default Group\Fonts
+FileGroup93=Default Group\Fonts
+FileGroup94=Default Group\Form Layouts\Other Layouts
+FileGroup95=Default Group\Form Layouts\Plumber Activity Layout
+FileGroup96=Default Group\Fonts
+FileGroup97=Default Group\Fonts
+FileGroup98=Default Group\Fonts
+FileGroup99=Default Group\Fonts
+Group=Default Group
+Library1=core
+Library10=json
+Library11=maskededittext
+Library12=materialdialogs
+Library13=mscircularimageview
+Library14=phone
+Library15=reflection
+Library16=runtimepermissions
+Library17=randomaccessfile
+Library18=sql
+Library19=stringfunctions
+Library2=appcompat
+Library20=stringutils
+Library21=wobblemenu
+Library22=xui views
+Library23=xcustomlistview
+Library24=viewsex
+Library25=xui
+Library26=xmllayoutbuilder
+Library27=b4xdrawer
+Library28=bignumbers
+Library29=bctoast
+Library3=bitmapcreator
+Library30=signpad
+Library31=ax_customalertviewdialog
+Library32=b4adropdownview
+Library33=customkeyboard
+Library34=audio
+Library35=tts
+Library36=stopwatch
+Library37=mlstopwatch
+Library38=multiselectspinner
+Library39=gps
+Library4=dateutils
+Library40=fusedlocationprovider
+Library41=bcrypt
+Library42=firebaseanalytics
+Library43=firebasenotifications
+Library44=keyvaluestore
+Library5=designsupport
+Library6=fiddlearound
+Library7=okhttputils2
+Library8=ime
+Library9=javaobject
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: http://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(	~\n~<uses-sdk android:minSdkVersion="4" android:targetSdkVersion="28"/>~\n~<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="28" />~\n~<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>~\n~<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>~\n~<uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true"~\n~    android:smallScreens="true"~\n~    android:windowActionBar="false"~\n~    android:windowFullscreen="false"~\n~    android:windowNoTitle="true"~\n~	android:anyDensity="true"/>)~\n~~\n~'Badge Notification	(Remove if not working)~\n~AddManifestText(~\n~<uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT"/>~\n~<uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/>~\n~<uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/>~\n~<uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />~\n~<uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />~\n~<uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />~\n~<uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> ~\n~<uses-permission android:name="com.sec.android.provider.badge.permission.READ" />~\n~<uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" />~\n~<uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />~\n~<uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" />)~\n~'//////////////////////////////////////////////////~\n~~\n~AddManifestText(<uses-feature android:name="android.hardware.telephony" android:required="false" />)~\n~AddManifestText(<uses-feature android:name="android.hardware.camera" android:required="false" />)~\n~AddManifestText(<uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />)~\n~AddManifestText(<uses-feature android:name="android.hardware.camera.flash" android:required="false" />)~\n~AddManifestText(<uses-feature android:name="android.hardware.location.gps" android:required="false" />)~\n~SetManifestAttribute(android:installLocation, "auto")~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~SetActivityAttribute(main, android:windowSoftInputMode, adjustPan|stateHidden)~\n~SetActivityAttribute(Main, "android:excludeFromRecents", "true")~\n~SetActivityAttribute(actWaterBalance, android:screenOrientation, "landscape")~\n~SetActivityAttribute(main, android:windowSoftInputMode, adjustResize|stateHidden)~\n~'End of default text. #FF8300~\n~~\n~SetApplicationAttribute(android:theme, "@style/MyAppTheme")~\n~CreateResource(values, themes.xml,~\n~~\n~<resources>~\n~    <style name="MyAppTheme" parent="Theme.AppCompat.Light.NoActionBar">~\n~		<item name="android:colorPrimary">#17a2b7</item> <!-- action bar -->~\n~		<item name="android:colorPrimaryDark">#1290a3</item> <!-- status bar -->~\n~		<item name="android:colorAccent">#28A745</item> <!-- checkboxes,, switches,, etc. #0091ea -->~\n~		<item name="android:actionMenuTextColor">#0000FF</item>~\n~		~\n~		<item name="android:textColorPrimary">#007BFF</item> <!-- ? -->~\n~		<item name="android:textColorSecondary">#206671</item> <!-- inactive editText line,, scrollbar -->~\n~		<item name="android:textColor">#000000</item> <!-- menu text,, msgbox title -->~\n~		<item name="android:textColorLink">#44e3ff</item>~\n~		<item name="android:textColorHighlight">#00b07e</item>~\n~		~\n~		<item name="android:windowNoTitle">true</item>~\n~		<item name="android:windowActionBar">true</item>~\n~		<item name="android:windowActionModeOverlay">true</item>~\n~		~\n~		<item name="textAppearanceLargePopupMenu">@style/myPopupMenuTextAppearanceLarge</item>~\n~    		<item name="android:textAppearanceLargePopupMenu">@style/myPopupMenuTextAppearanceLarge</item>~\n~	    <item name="textAppearanceSmallPopupMenu">@style/myPopupMenuTextAppearanceSmall</item>~\n~    	<item name="android:textAppearanceSmallPopupMenu">@style/myPopupMenuTextAppearanceSmall</item>~\n~    	<item name="popupMenuStyle">@style/myPopupMenuStyle</item>~\n~    	<item name="android:popupMenuStyle">@style/myPopupMenuStyle</item>~\n~	</style>~\n~	~\n~		<style name="MyDialog" parent="Theme.AppCompat.Dialog">~\n~	   <item name="colorPrimary">#3F51B5</item>~\n~	   <item name="colorPrimaryDark">#151C51</item>~\n~	   <item name="colorAccent">#303F9F</item>~\n~	   ~\n~	   <item name="android:windowNoTitle">true</item>~\n~	   <item name="android:windowFullscreen">false</item>~\n~	   <item name="android:windowContentOverlay">@null</item>~\n~	   <item name="android:windowBackground">@android:color/transparent</item>~\n~	   <item name="android:backgroundDimEnabled">true</item>~\n~	   <item name="android:backgroundDimAmount">0.5</item>~\n~	   <item name="android:windowIsFloating">false</item>~\n~	   <item name="android:gravity">center</item>~\n~	   ~\n~	   <item name="android:textColorHint">#C8C8C8</item>~\n~	   <item name="colorControlNormal">#C8C8C8</item>~\n~	   <item name="colorControlHighlight">#C8C8C8</item>~\n~	   <item name="colorControlActivated">#303F9F</item>~\n~	</style>~\n~	~\n~	<style name="MyDialogDisableStatus" parent="MyDialog">~\n~		<item name="android:windowDrawsSystemBarBackgrounds">true</item>~\n~		<item name="android:statusBarColor">@android:color/transparent</item>~\n~		<item name="android:windowTranslucentStatus">false</item>~\n~		<item name="android:windowTranslucentNavigation">false</item>~\n~	</style>~\n~~\n~	~\n~	<style name="myPopupMenuStyle" parent="@style/Widget.AppCompat.Light.PopupMenu">~\n~		<item name="android:popupBackground">#17A2B7</item>~\n~		<item name="android:textColor">#ffffff</item>~\n~	</style>~\n~~\n~	<style name="myPopupMenuTextAppearanceSmall" parent="@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small">~\n~	    <item name="android:textColor">#ff0000</item>~\n~	</style>~\n~~\n~	<style name="myPopupMenuTextAppearanceLarge" parent="@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large">~\n~	    <item name="android:textColor">#ff0000</item>~\n~	</style>~\n~	~\n~  <style name="MyAppOptionsMenu">~\n~      <item name="android:popupBackground">#17A2B7</item>~\n~      <item name="android:colorBackground">#17A2B7</item>~\n~  </style>~\n~  ~\n~  	<style name="ToolbarMenu" parent="Base.ThemeOverlay.AppCompat.ActionBar">~\n~	    <item name="android:textColorPrimary">#fff</item>~\n~	    <item name="android:colorBackground">#4ECDC4</item>~\n~	</style>~\n~~\n~</resources>~\n~)~\n~~\n~AddPermission(android.permission.ACCESS_SUPERUSER)~\n~AddPermission(android.permission.CHANGE_WIFI_STATE)~\n~AddPermission(android.permission.ACCESS_WIFI_STATE)~\n~AddPermission(android.permission.READ_EXTERNAL_STORAGE)~\n~AddPermission(android.permission.WRITE_EXTERNAL_STORAGE)~\n~AddPermission(android.permission.BLUETOOTH) ~\n~AddPermission(android.permission.BLUETOOTH_ADMIN)~\n~AddPermission(android.permission.BLUETOOTH_PRIVILEGED)~\n~AddPermission(android.permission.BIND_PRINT_SERVICE)~\n~AddPermission(android.permission.CAMERA)~\n~AddPermission(android.permission.VIBRATE)~\n~AddPermission(android.permission.MODIFY_AUDIO_SETTINGS)~\n~''api>=29~\n~AddPermission(android.permission.MANAGE_EXTERNAL_STORAGE) '' Special privileges ~\n~AddPermission(android.permission.ACCESS_COARSE_LOCATION)~\n~AddPermission(android.permission.ACCESS_FINE_LOCATION)~\n~AddApplicationText(<meta-data~\n~    android:name="com.google.android.gms.version"~\n~    android:value="@integer/google_play_services_version" />)~\n~SetApplicationAttribute(android:allowBackup, "false")~\n~'FireBase~\n~CreateResourceFromFile(Macro, FirebaseAnalytics.GooglePlayBase)~\n~CreateResourceFromFile(Macro, FirebaseAnalytics.Firebase)~\n~CreateResourceFromFile(Macro, FirebaseNotifications.FirebaseNotifications)
+Module1=actCMJOFindings
+Module10=actJODetails
+Module11=actJONotification
+Module12=actJOReasons
+Module13=actJOSummary
+Module14=actJOWithReasons
+Module15=actMCJOFindings
+Module16=actNCJOFindings
+Module17=actNewProduction
+Module18=actNonOperational
+Module19=actProduction
+Module2=actCriticalPoint
+Module20=actPumpOff
+Module21=actRCJOFindings
+Module22=actRepMain
+Module23=actSASJOFindings
+Module24=actWaterBalance
+Module25=AddEditChlorineRecord
+Module26=AddEditFMRdg
+Module27=AddEditNonOperational
+Module28=AddEditProblem
+Module29=AddEditPSIDistRecord
+Module3=actDCCRJOFindings
+Module30=AddEditPSIRdg
+Module31=AddEditTimeRecord
+Module32=Badger
+Module33=CLVSwipe
+Module34=DateDialogs
+Module35=DBaseFunctions
+Module36=DBUtils
+Module37=EditTimeRecord
+Module38=FirebaseMessaging
+Module39=GlobalVar
+Module4=actDCDAJOFindings
+Module40=MainScreen
+Module41=MiscFunctions
+Module42=MyFunctions
+Module43=MyScale
+Module44=NB6
+Module45=SLInpTypeConst
+Module46=Starter
+Module47=Validation
+Module5=actDebugKeyboard
+Module6=actGPMCalc
+Module7=actGPMHistory
+Module8=actJO
+Module9=actJOAccomplishedSAS
+NumberOfFiles=110
+NumberOfLibraries=44
+NumberOfModules=47
+Version=10
+@EndOfDesignText@
+#Region  Project Attributes 
+	#ApplicationLabel: BWSI Operations
+	#VersionCode: 1
+	#VersionName: Version 1.0
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: unspecified
+	#CanInstallToExternalStorage: False
+	#AdditionalRes: C:\New Pump Operations\resource
+	#AdditionalRes: C:\New Pump Operations\md-app\res
+	#AdditionalRes: C:\New Pump Operations\md-lib\res
+	#AdditionalRes: ..\resAX_CustomAlertViewDialog
+	
+#End Region
+	#Extends: android.support.v4.widget.DrawerLayout
+	#Extends: android.support.v7.app.AppCompatActivity
+	#AdditionalJar: com.android.support:support-compat
+	#AdditionalJar: com.google.android.gms:play-services-location
+	#MultiDex: True
+	#BridgeLogger: True
+#Region  Activity Attributes
+	#FullScreen: True
+	#IncludeTitle: True
+#End Region
+
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+	Public Permissions As RuntimePermissions
+	Dim InpTyp As SLInpTypeConst
+	Private Font As Typeface = Typeface.LoadFromAssets("myfont.ttf")
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	'These variables can only be accessed from this module.
+
+	Dim mySnack As DSSnackbar
+	Dim imeKeyboard As IME
+
+	Private btnLogin As B4XView
+	Private chkShowPass As B4XView
+	Private txtPassword As EditText
+	Private txtUserName As EditText
+	
+	Dim CDtxtBox As ColorDrawable
+	Private lblCheck As B4XView
+	
+	Dim isChecked As Boolean
+	
+	Private csAns As CSBuilder	
+	Dim snack As DSSnackbar
+	Private vibration As B4Avibrate
+	Private vibratePattern() As Long
+	Private TheToast As BCToast
+	
+	Private btnBranchSettings As Panel
+	Private btnIPSettings As Panel
+
+	Private pnlSearch As Panel
+	Private FontBold As Typeface = Typeface.LoadFromAssets("myfont_bold.ttf")
+
+	'Permissions
+	Private ReadStoragePermission As Boolean
+	Private WriteStoragePermission As Boolean
+	Private CoarseLocPermission As Boolean
+	Private FineLocPermission As Boolean
+	
+	Private KVS As KeyValueStore
+
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	'Do not forget to load the layout file created with the visual designer. For example:
+	Activity.LoadLayout("LoginNew")
+	DBaseFunctions.GetParameters
+	
+	InpTyp.Initialize
+	InpTyp.SetInputType(txtPassword,Array As Int(InpTyp.TYPE_CLASS_TEXT,InpTyp.TYPE_TEXT_VARIATION_PASSWORD))
+
+	CDtxtBox.Initialize(Colors.Transparent,0)
+	
+	txtUserName.Background = CDtxtBox
+	txtPassword.Background = CDtxtBox
+	chkShowPass.Checked = False
+	isChecked = False
+	lblCheck.Text = ""
+	txtPassword.PasswordMode = True
+	txtUserName.Text = "joko"
+	txtPassword.Text = "0124"
+		
+	If FirstTime = True Then
+		GlobalVar.DBVersion = DBaseFunctions.GetDBVersionNo
+		LogColor ($"App Version: "$ & Application.VersionCode, Colors.Yellow)
+		LogColor ($"DBase Version: "$ & GlobalVar.DBVersion, Colors.Blue)
+		If GlobalVar.DBVersion = 0 Or GlobalVar.DBVersion <> Application.VersionCode Then
+			TheToast.Initialize(Activity)
+			TheToast.DefaultTextColor = Colors.White
+			TheToast.pnl.Color = GlobalVar.RedColor
+			TheToast.DurationMs = 1600
+			TheToast.Show($"Database Version not match!"$ & CRLF & $"Please contact Central Billing & IT Department."$)
+			ExitApplication
+		End If
+	End If
+	imeKeyboard.Initialize("ime")
+	CheckPermissions
+	csAns.Initialize.Color(Colors.White).Bold.Append($"YES"$).PopAll
+	
+	KVS.Initialize(File.DirInternal, "operations.dat")
+End Sub
+
+Sub Activity_Resume
+	If Starter.GPS1.GPSEnabled = False Then
+		ShowGPSWarning
+		Return
+	Else
+		Starter.rtp.CheckAndRequest(Starter.rtp.PERMISSION_ACCESS_FINE_LOCATION)
+		Wait For Activity_PermissionResult (Permission As String, Result As Boolean)
+		If Result Then CallSubDelayed(Starter, "StartGPS")
+	End If
+	
+	If KVS.IsInitialized = False Then
+		KVS.Initialize(File.DirInternal,"operations.dat")
+	Else
+		If IsThereUserData = True Then
+			Wait For(RetrieveUserData) Complete(bRetVal As Boolean)
+			If bRetVal = True Then
+				StartActivity(MainScreen)
+			End If
+		End If
+	End If
+'	CheckPermissions
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+	CallSubDelayed(Starter, "StopGPS")
+End Sub
+
+Sub Activity_KeyPress (KeyCode As Int) As Boolean 'Return True to consume the event
+	If KeyCode = 4 Then
+		vibration.vibrateOnce(1000)
+		snack.Initialize("btnClose", Activity, $"Close Pump Operations?"$, snack.DURATION_SHORT)
+		MyFunctions.SetSnackBarBackground(snack, GlobalVar.RedColor)
+		MyFunctions.SetSnackBarTextColor(snack, Colors.White)
+		snack.SetAction(csAns)
+		snack.Show
+		Return True
+	Else
+		Return False
+	End If
+End Sub
+
+Private Sub CheckPermissions
+	Log("Checking Permissions")
+	
+	Starter.RTP.CheckAndRequest(Starter.RTP.PERMISSION_READ_EXTERNAL_STORAGE)
+	Starter.RTP.CheckAndRequest(Starter.RTP.PERMISSION_WRITE_EXTERNAL_STORAGE)
+	Starter.RTP.GetAllSafeDirsExternal("")
+
+	Starter.RTP.CheckAndRequest(Starter.RTP.PERMISSION_ACCESS_COARSE_LOCATION)
+	Starter.RTP.CheckAndRequest(Starter.RTP.PERMISSION_ACCESS_FINE_LOCATION)
+
+	Starter.RTP.CheckAndRequest(Starter.RTP.PERMISSION_CAMERA)
+	Starter.RTP.CheckAndRequest(Starter.RTP.PERMISSION_BODY_SENSORS)
+	Return
+End Sub
+
+Sub Activity_PermissionResult (Permission As String, Result As Boolean)
+	If Result Then
+		If Permission = Starter.RTP.PERMISSION_READ_EXTERNAL_STORAGE Then
+			LogColor($"Permission to Read External Storage GRANTED"$, Colors.Yellow)
+			ReadStoragePermission = True
+		Else If Permission = Starter.RTP.PERMISSION_WRITE_EXTERNAL_STORAGE Then
+			LogColor($"Permission to Write External Storage GRANTED"$, Colors.White)
+			WriteStoragePermission = True
+		Else If Permission = Starter.RTP.PERMISSION_ACCESS_COARSE_LOCATION Then
+			LogColor($"Permission to Access Coarse Location GRANTED"$, Colors.Magenta)
+			CoarseLocPermission = True
+		Else If Permission = Starter.RTP.PERMISSION_ACCESS_FINE_LOCATION Then
+			LogColor($"Permission to Access Fine Location GRANTED"$, Colors.Cyan)
+			FineLocPermission = True
+		End If
+		Starter.StartFLP
+	Else
+		ReadStoragePermission = False
+		WriteStoragePermission = False
+		CoarseLocPermission = False
+		FineLocPermission = False
+		Result = False
+	End If
+	Log (Permission)
+End Sub
+
+Private Sub btnClose_Click()
+	ExitApplication
+End Sub
+
+Sub chkShowPass_CheckedChange(Checked As Boolean)
+	txtPassword.PasswordMode = Checked
+	If Checked = True Then
+		lblCheck.Text = ""
+	Else
+		lblCheck.Text = Chr(0xE5CA)
+	End If
+	isChecked = Checked
+End Sub
+
+Sub btnLogin_Click
+	Dim rsUser As Cursor
+	
+	If GlobalVar.SF.Len(GlobalVar.SF.Trim(txtUserName.Text)) = 0 Then
+		Return
+	End If
+	
+	If GlobalVar.SF.Len(GlobalVar.SF.Trim(txtPassword.Text)) = 0 Then
+		Return
+	End If
+	
+	Starter.strCriteria = "SELECT * FROM tblUsers " & _
+					  "WHERE UserName = '" & txtUserName.Text & "'"
+	rsUser = Starter.DBCon.ExecQuery(Starter.strCriteria)
+	If rsUser.RowCount > 0 Then
+		rsUser.Position = 0
+		If rsUser.GetString("UserPassword") <> txtPassword.Text Then
+			
+			mySnack.Initialize("", Activity, "Password is Incorrect", mySnack.DURATION_SHORT)
+			MyFunctions.SetSnackBarTextColor(mySnack, Colors.White)
+			MyFunctions.SetSnackBarBackground(mySnack, GlobalVar.RedColor)
+			mySnack.Show
+
+			txtPassword.Text = ""
+			txtPassword.RequestFocus
+			imeKeyboard.ShowKeyboard(txtPassword)
+			Return
+		Else
+			GlobalVar.UserID = DBaseFunctions.GetUserID(txtUserName.Text, txtPassword.Text)
+			If DBaseFunctions.isGetUserInfo(GlobalVar.UserID) = False Then Return
+			If DBaseFunctions.isGetBranchInfo(GlobalVar.BranchID)  = False Then Return
+			GlobalVar.SysMode = DBaseFunctions.GetSystemMode(GlobalVar.BranchID)
+			If DBaseFunctions.IsMultiPos(GlobalVar.UserID) = True Then
+				ShowPositionList(GlobalVar.UserID)
+			End If
+		End If
+	Else 'User already in Local Database
+		mySnack.Initialize("TryOtherUser", Activity, "User Name not Found on Local Database", mySnack.DURATION_SHORT)
+		MyFunctions.SetSnackBarTextColor(mySnack, Colors.White)
+		MyFunctions.SetSnackBarBackground(mySnack, GlobalVar.RedColor)
+		mySnack.SetAction($"Retry"$)
+		mySnack.Show
+		Return
+	End If
+End Sub
+
+Private Sub TryOtherUser_Click
+	txtUserName.Text = ""
+	txtPassword.Text = ""
+	txtUserName.RequestFocus
+	imeKeyboard.ShowKeyboard(txtUserName)
+End Sub
+
+Sub lblCheck_Click
+	If isChecked = False Then
+		isChecked = True
+		lblCheck.Text = ""
+	Else
+		isChecked = False
+		lblCheck.Text = Chr(0xE5CA)
+	End If
+	chkShowPass_CheckedChange(isChecked)
+End Sub
+
+Sub txtPassword_EnterPressed
+	btnLogin_Click
+End Sub
+
+Sub RoundBD(BD As BigDecimal, DP As Int) As BigDecimal
+	BD.Round(BD.Precision - BD.Scale + DP, BD.ROUND_HALF_UP )
+	Return BD
+End Sub
+
+Sub btnIPSettings_Click
+	MsgboxAsync($"IP Settings button clicked..."$,$"IP"$)
+End Sub
+
+Sub btnBranchSettings_Click
+	MsgboxAsync($"Branch Settings button clicked..."$,$"BRANCH"$)
+End Sub
+
+Sub pnlSearch_Touch (Action As Int, X As Float, Y As Float)
+	
+End Sub
+
+Private Sub ShowPositionList (iUserID As Int)
+	Dim Alert As AX_CustomAlertDialog
+	Private rsPos As Cursor
+	Dim ListDestructive,ListItems As List
+	ListDestructive.Initialize : ListItems.Initialize
+
+	Try
+		Starter.strCriteria = "SELECT UserPos.UserID, Positions.PosCode, Positions.PosDesc " & _
+						  "FROM tblUserPosition AS UserPos " & _
+						  "INNER JOIN tblPositions AS Positions ON UserPos.PosID = Positions.PosID " & _
+						  "WHERE UserPos.UserID = "  & iUserID 
+		LogColor(Starter.strCriteria, Colors.White)
+		
+		rsPos = Starter.DBCon.ExecQuery(Starter.strCriteria)
+		
+		If rsPos.RowCount > 0 Then
+'			rsPos.Position = 0
+			For i = 0 To rsPos.RowCount - 1
+				rsPos.Position = i
+				ListItems.Add(rsPos.GetString("PosDesc"))
+			Next
+		Else
+		End If
+	Catch
+		Log(LastException)
+	End Try
+	rsPos.Close
+	
+	Alert.Initialize.Create _
+			.SetDialogStyleName("MyDialog") _	'Manifest style name
+			.SetTitle("Select your Position") _
+			.SetStyle(Alert.STYLE_SELECTOR) _
+			.SetOthers(ListItems) _
+			.SetActionsheetTypeface(Font) _
+			.SetOnItemClickListener("PositionSelect") _
+			.SetOnViewBinder("PosFontSizeBinder") 'listeners
+		
+	Alert.SetDialogBackground(CD)
+	Alert.Build.Show
+End Sub
+
+Private Sub CD As ColorDrawable
+	Private mCD As ColorDrawable
+	mCD.Initialize(Colors.RGB(240,240,240),0)
+	Return mCD
+End Sub
+
+'Listeners
+Private Sub PositionSelect_OnItemClick (View As View, Selection As String, Position As Int, Id As Long)
+'	ToastMessageShow(Selection&" Selected! (Position : "& Position &")",False)
+	Dim Alert As AX_CustomAlertDialog
+	Alert.Initialize.Dismiss2
+	GlobalVar.UserPosID = DBaseFunctions.GetIDByCode("PosID","tblPositions","PosDesc",Selection)
+	GlobalVar.UserPos = Selection
+	LogColor(GlobalVar.UserPosID & " - " & GlobalVar.UserPos , Colors.Yellow)
+	TheToast.Initialize(Activity)
+	TheToast.DefaultTextColor = Colors.White
+	TheToast.pnl.Color = GlobalVar.BlueColor
+	TheToast.Show($"Login as: "$ & Selection)
+
+	Sleep(1000)
+	StartActivity(MainScreen)
+End Sub
+
+Public Sub GPSStatus (Satellites As List)
+	Dim sb As StringBuilder
+	sb.Initialize
+	sb.Append("Satellites:").Append(CRLF)
+	For i = 0 To Satellites.Size - 1
+		Dim Satellite As GPSSatellite = Satellites.Get(i)
+		sb.Append(CRLF).Append(Satellite.Prn).Append($" $1.2{Satellite.Snr}"$).Append(" ").Append(Satellite.UsedInFix)
+		sb.Append(" ").Append($" $1.2{Satellite.Azimuth}"$).Append($" $1.2{Satellite.Elevation}"$)
+	Next
+	Log(sb.ToString)
+'	lblSatellites.Text = sb.ToString
+End Sub
+
+Public Sub LocationChanged(Location1 As Location)
+	Log($"Latitude = "$ & Location1.ConvertToMinutes(Location1.Latitude) & " - Longitude = " & Location1.ConvertToMinutes(Location1.Longitude) & $"Speed = $1.2{Location1.Speed} m/s "$)
+'	lblLat.Text = "Lat = " & Location1.ConvertToMinutes(Location1.Latitude)
+'	lblLon.Text = "Lon = " & Location1.ConvertToMinutes(Location1.Longitude)
+'	lblSpeed.Text = $"Speed = $1.2{Location1.Speed} m/s "$
+End Sub
+
+Private Sub ShowGPSWarning
+	Dim Alert As AX_CustomAlertDialog
+
+	Alert.Initialize.Create _
+			.SetDialogStyleName("MyDialogDisableStatus") _	'Manifest style name
+			.SetStyle(Alert.STYLE_DIALOGUE) _
+			.SetCancelable(False) _
+			.SetTitle($"Enable GPS"$) _
+			.SetMessage($"Please Turn On Location Services to,"$ & CRLF & $"Allow "BWSI APP" to"$ & CRLF &  $"Determine Your Location."$) _
+			.SetPositiveText("Cancel") _
+			.SetPositiveColor(GlobalVar.NegColor) _
+			.SetPositiveTypeface(FontBold) _
+			.SetNegativeText("Settings") _
+			.SetNegativeColor(GlobalVar.PosColor) _
+			.SetNegativeTypeface(Font) _
+			.SetTitleTypeface(Font) _
+			.SetMessageTypeface(Font) _
+			.SetOnPositiveClicked("AllowGPS") _	'listeners
+			.SetOnNegativeClicked("AllowGPS") _
+			.SetOnViewBinder("GPSFontSizeBinder") 'listeners
+			
+	Alert.SetDialogBackground(MyFunctions.myCD)
+	Alert.Build.Show
+
+End Sub
+'Listeners
+Private Sub AllowGPS_OnNegativeClicked (View As View, Dialog As Object)
+	Dim Alert As AX_CustomAlertDialog
+	Alert.Initialize.Dismiss(Dialog)
+	
+	StartActivity(Starter.GPS1.LocationSettingsIntent) 'Will open the relevant settings screen.
+End Sub
+
+Private Sub AllowGPS_OnPositiveClicked (View As View, Dialog As Object)
+	Dim Alert As AX_CustomAlertDialog
+	Alert.Initialize.Dismiss(Dialog)
+	ExitApplication
+End Sub
+
+Private Sub GPSFontSizeBinder_OnBindView (View As View, ViewType As Int)
+	Dim alert As AX_CustomAlertDialog
+	alert.Initialize
+	If ViewType = alert.VIEW_TITLE Then ' Title
+		Dim lbl As Label = View
+'		lbl.TextSize = 30
+'		lbl.SetTextColorAnimated(2000,Colors.Magenta)
+		
+		
+		Dim CS As CSBuilder
+'		CS.Initialize.Typeface(Font).Append(lbl.Text & " ").Pop
+'		CS.Typeface(Typeface.MATERIALICONS).Size(36).Color(Colors.Red).Append(Chr(0xE190))
+
+		CS.Initialize.Typeface(Typeface.DEFAULT_BOLD).Typeface(Typeface.MATERIALICONS).Size(26).Color(Colors.Red).Append(Chr(0xE1B3) & "  ")
+		CS.Typeface(Font).Size(22).Append(lbl.Text).Pop
+
+		lbl.Text = CS.PopAll
+	End If
+	If ViewType = alert.VIEW_MESSAGE Then
+		Dim lbl As Label = View
+		lbl.TextSize = 16
+		lbl.TextColor = Colors.Gray
+	End If
+End Sub
+
+Private Sub PosFontSizeBinder_OnBindView (View As View, ViewType As Int)
+	Dim alert As AX_CustomAlertDialog
+	alert.Initialize
+	If ViewType = alert.VIEW_TITLE Then ' Title
+		Dim lbl As Label = View
+'		lbl.TextSize = 30
+'		lbl.SetTextColorAnimated(2000,Colors.Magenta)
+		
+		
+		Dim CS As CSBuilder
+'		CS.Initialize.Typeface(Font).Append(lbl.Text & " ").Pop
+'		CS.Typeface(Typeface.MATERIALICONS).Size(36).Color(Colors.Red).Append(Chr(0xE190))
+
+		CS.Initialize.Typeface(Typeface.DEFAULT_BOLD).Typeface(Typeface.MATERIALICONS).Size(24).Color(Colors.Black).Append(Chr(0xE7FD) & " ")
+		CS.Typeface(Font).Size(20).Append(lbl.Text).Pop
+
+		lbl.Text = CS.PopAll
+	End If
+End Sub
+
+Private Sub PosFontSizeBinder_OnBindActionsheetView (View As View, Position As Int,IsNewItem As Boolean)
+	If IsNewItem Then Return
+'	Dim Color As Int = Colors.RGB(Rnd(0,255),Rnd(0,255),Rnd(0,255))
+	
+	Dim Lbl As Label = View
+'	Lbl.TextColor = Colors.Gray
+	Lbl.Typeface = Font
+	Lbl.TextSize = 20
+	
+'	Dim Parent As Panel = View.Parent
+'	Dim Divider As View = Parent.GetView(0)
+'	Divider.Color = Colors.DarkGray
+End Sub
+
+'Key Value Store
+#Region KeyValueStore
+
+Private Sub RetrieveUserData As ResumableSub
+	' Retrieve user data from KVS
+	Dim blnRetVal As Boolean
+	Dim UserData, TransDate As Map
+	
+	blnRetVal = False
+	UserData.Initialize
+	UserData = KVS.Get("user_data")
+
+	' Display user data in a toast message
+	GlobalVar.UserID = UserData.Get("UserID")
+	GlobalVar.UserName = UserData.Get("UserName")
+
+	GlobalVar.UserPW = UserData.Get("UserPassword")
+	GlobalVar.EmpName = UserData.Get("EmpName")
+	GlobalVar.UserAvatar = UserData.Get("UserAvatar")
+
+	GlobalVar.BranchID = UserData.Get("BranchID")
+	GlobalVar.BranchName = UserData.Get("BranchName")
+	GlobalVar.UserPosID = UserData.Get("UserPosID")
+	GlobalVar.UserPos = UserData.Get("UserPosition")
+	GlobalVar.SysMode = UserData.Get("SysMode")
+	
+	blnRetVal = True
+	Return blnRetVal
+'	TransDate.Initialize
+'	TransDate = KVS.Get("trans_date")
+'	GlobalVar.TranDate = TransDate.Get("TransDate")
+
+End Sub
+
+Private Sub IsThereUserData As Boolean
+	Dim bRetVal As Boolean
+	bRetVal = False
+	Try
+		If KVS.ContainsKey("user_data") Then
+			bRetVal = True
+		Else
+			bRetVal = False
+		End If
+	Catch
+		Log(LastException)
+	End Try
+	Log($"User Data "$ & bRetVal)
+	Return bRetVal
+End Sub
+
+#End Region

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544015081811",
+    "project_id": "bwsi-operations",
+    "storage_bucket": "bwsi-operations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544015081811:android:8c2f25e8fce337bebfc1a6",
+        "android_client_info": {
+          "package_name": "bwsi.PumpOperations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544015081811-k8cb5panet1n6l6s5iv87c288d96mfpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_m6fADtSiqjNCxuJFmtU3DP_eu_XfpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544015081811-k8cb5panet1n6l6s5iv87c288d96mfpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
